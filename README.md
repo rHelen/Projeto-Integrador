@@ -52,7 +52,3 @@ Esse projeto foi desenvolvido utilizando:
 - Rute Costa [![LinkedIn Badge](https://img.shields.io/badge/rute-costa?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutehelencosta/)
 - Eveline Síntia [![LinkedIn Badge](https://img.shields.io/badge/eveline-sintia?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eveline-s%C3%ADntia/)
 - Olga Beatriz [![LinkedIn Badge](https://img.shields.io/badge/olga-silva?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-beatriz-silva-283060144/)
-
-<p align="center">
-<img src="https://github.com/fabiomrm/generation/blob/main/generation_21-10-2021-09-00-34-863_T.jpeg?raw=true" />
-</p>
