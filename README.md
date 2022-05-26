@@ -16,7 +16,7 @@ A nossa aplicação está atrelada com a ODS 10 - Redução das desigualdades e 
 </p>
 	
 ## Funcionalidades do projeto
-<img align="center" alt="build" height="30" width="40" src="https://cdn-icons.flaticon.com/png/512/4873/premium/4873868.png?token=exp=1651785087~hmac=344138c1c5be6d79291548c119f7bc7b">Em desenvolvimento.
+<img align="center" alt="build" height="30" width="40" src="https://cdn-icons.flaticon.com/png/512/3281/premium/3281142.png?token=exp=1653586239~hmac=82dc89fc914814a897f5b0a1aa6b2d01">Em desenvolvimento.
 	
 
 <h2>Tecnologias Utilizadas</h2>
