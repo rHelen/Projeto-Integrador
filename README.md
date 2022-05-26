@@ -23,21 +23,21 @@ A nossa aplicação está atrelada com a ODS 10 - Redução das desigualdades e 
 <ul>
 <li>Java</li>
 <li>Spring Boot</li>
-<li>Eclipse</a></li>
+<li>Eclipse</li>
 <li>MySQL</li>
 <li>Angular</li>
-<li>Bootstrap</a></li>
-<li>SpringToolSuite</a></li>
-<li>Representações JSON/a></li>
-<li>Negociação de conteúdos</a></li>
-<li>Modelagem de APIs</a></li>
-<li>Validação de Entrada</a></li>
-<li>Manipulação de exceções</a></li>
-<li>Cache</a></li>
-<li>Protocolo HTTP</a></li>
-<li>Autenticação básica com Spring Security</a></li>
-<li>Criação de cliente REST com Java</a></li>
-<li>Criação de cliente REST com Postman</a></li> 
+<li>Bootstrap</li>
+<li>SpringToolSuite</li>
+<li>Representações JSON</li>
+<li>Negociação de conteúdos</li>
+<li>Modelagem de APIs</li>
+<li>Validação de Entrada</li>
+<li>Manipulação de exceções</li>
+<li>Cache</li>
+<li>Protocolo HTTP</li>
+<li>Autenticação básica com Spring Security</li>
+<li>Criação de cliente REST com Java</li>
+<li>Criação de cliente REST com Postman</li> 
   
  
 ## Quem são as colaboradoras do projeto?
