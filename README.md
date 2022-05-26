@@ -32,7 +32,7 @@ A nossa aplicação está atrelada com a ODS 10 - Redução das desigualdades e 
 <li>Negociação de conteúdos</a></li>
 <li>Modelagem de APIs</a></li>
 <li>Validação de Entrada</a></li>
-<li>manipulação de exceções</a></li>
+<li>Manipulação de exceções</a></li>
 <li>Cache</a></li>
 <li>Protocolo HTTP</a></li>
 <li>Autenticação básica com Spring Security</a></li>
