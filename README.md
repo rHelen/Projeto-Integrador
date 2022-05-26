@@ -20,7 +20,6 @@ A nossa aplicação está atrelada com a ODS 10 - Redução das desigualdades e 
 	
 
 <h2>Tecnologias Utilizadas</h2>
-Esse projeto foi desenvolvido utilizando:
 <ul>
 <li>Java</li>
 <li>Spring Boot</li>
